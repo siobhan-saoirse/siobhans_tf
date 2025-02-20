@@ -2,7 +2,7 @@
 {
 	"trade_plaza_2"
 	{
-		"viewed"		"6"
+		"viewed"		"7"
 	}
 	"mvm_coaltown"
 	{
