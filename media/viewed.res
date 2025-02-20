@@ -2,11 +2,11 @@
 {
 	"trade_plaza_2"
 	{
-		"viewed"		"9"
+		"viewed"		"10"
 	}
 	"mvm_coaltown"
 	{
-		"viewed"		"13"
+		"viewed"		"14"
 	}
 	"mvm_mannhattan"
 	{
@@ -22,7 +22,7 @@
 	}
 	"raid_badwater"
 	{
-		"viewed"		"7"
+		"viewed"		"8"
 	}
 	"cp_dustbowl"
 	{
