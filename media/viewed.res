@@ -2,7 +2,7 @@
 {
 	"trade_plaza_2"
 	{
-		"viewed"		"10"
+		"viewed"		"11"
 	}
 	"mvm_coaltown"
 	{
@@ -50,7 +50,7 @@
 	}
 	"koth_harvest_final"
 	{
-		"viewed"		"19"
+		"viewed"		"27"
 	}
 	"koth_viaduct_event"
 	{
