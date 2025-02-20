@@ -1,0 +1,9 @@
+"characters"
+{
+	"siobhan_jumpscare"
+	{
+		"image"	"../console/characters/siobhan"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+	}
+}

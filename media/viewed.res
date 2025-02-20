@@ -2,7 +2,7 @@
 {
 	"trade_plaza_2"
 	{
-		"viewed"		"7"
+		"viewed"		"9"
 	}
 	"mvm_coaltown"
 	{
@@ -57,6 +57,10 @@
 		"viewed"		"1"
 	}
 	"koth_viaduct"
+	{
+		"viewed"		"1"
+	}
+	"pl_upward"
 	{
 		"viewed"		"1"
 	}
