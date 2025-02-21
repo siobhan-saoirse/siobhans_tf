@@ -18,7 +18,7 @@
 	}
 	"ctf_2fort"
 	{
-		"viewed"		"21"
+		"viewed"		"22"
 	}
 	"raid_badwater"
 	{
@@ -46,7 +46,7 @@
 	}
 	"itemtest"
 	{
-		"viewed"		"7"
+		"viewed"		"8"
 	}
 	"koth_harvest_final"
 	{
