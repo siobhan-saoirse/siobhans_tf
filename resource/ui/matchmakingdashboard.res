@@ -818,5 +818,48 @@
 				"drawcolor_override" "TanLight"
 			}
 		}
+
+		"HostGameButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"HostGameButton"
+			"xpos"			"rs1-145"
+			"ypos"			"0"
+			"zpos"			"100"
+			"wide"			"115"
+			"tall"			"f6"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"font"			"HudFontSmallBold"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"Command"		"create_server"
+			"proportionaltoparent"	"1"
+			"labeltext"		"#MMenu_HostAGame"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+			"actionsignallevel"	"2"
+			"roundedcorners"	"1"
+			"textinsety"	"2.5"
+			"textinsetx"	"15"
+			"use_proportional_insets"	"1"
+
+
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+
+			"armedBgColor_override"		"LighterDarkBrown"
+			"defaultBgColor_override"	"DarkBrown"
+
+			"defaultFgColor_override" "TanLight"
+			"armedFgColor_override" "TanLight"
+			"image_drawcolor"	"235 226 202 255"
+			"image_armedcolor"	"235 226 202 255"
+
+		}
 	}
 }
