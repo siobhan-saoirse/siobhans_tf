@@ -18,7 +18,7 @@
 	}
 	"ctf_2fort"
 	{
-		"viewed"		"12"
+		"viewed"		"14"
 	}
 	"raid_badwater"
 	{
@@ -30,11 +30,11 @@
 	}
 	"mvm_decoy"
 	{
-		"viewed"		"5"
+		"viewed"		"7"
 	}
 	"siob_debugtest"
 	{
-		"viewed"		"3"
+		"viewed"		"4"
 	}
 	"cp_5gorge"
 	{
@@ -46,7 +46,7 @@
 	}
 	"itemtest"
 	{
-		"viewed"		"4"
+		"viewed"		"6"
 	}
 	"koth_harvest_final"
 	{
