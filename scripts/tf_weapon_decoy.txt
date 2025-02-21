@@ -22,7 +22,7 @@ WeaponData
 
 	// Buckets.
 	"bucket"			"1"
-	"bucket_position"		"0"
+	"bucket_position"		"1"
 	
 	// Model & Animation.
 	"viewmodel"			"models/weapons/v_models/v_knife_spy.mdl"

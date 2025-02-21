@@ -46,7 +46,7 @@
 	}
 	"itemtest"
 	{
-		"viewed"		"8"
+		"viewed"		"9"
 	}
 	"koth_harvest_final"
 	{
