@@ -18,7 +18,7 @@
 	}
 	"ctf_2fort"
 	{
-		"viewed"		"19"
+		"viewed"		"21"
 	}
 	"raid_badwater"
 	{
