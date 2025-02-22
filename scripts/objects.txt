@@ -211,6 +211,27 @@ objects
 		ExplodeEffect		"ExplosionCore_buildings"
 		UpgradeSound		"Building_Sentrygun.Built"
 		BuildCount		1
-		RequiresOwnBuilder	1
+		RequiresOwnBuilder	1		
+		AltModes
+		{
+			AltMode0
+			{
+				StatusName	"#TF_Object_Spytrap"
+				ModeName	"#TF_Spytrap_Cloak"
+				IconMenu	hud_menu_tele_entrance_build
+			}
+			AltMode1
+			{
+				StatusName	"#TF_Object_Spytrap"
+				ModeName	"#TF_Spytrap_Reprogrammer"
+				IconMenu	hud_menu_tele_exit_build
+			}
+			AltMode2
+			{
+				StatusName	"#TF_Object_Spytrap"
+				ModeName	"#TF_Spytrap_Magnet"
+				IconMenu	hud_menu_tele_exit_build
+			}
+		}
 	}
 }
