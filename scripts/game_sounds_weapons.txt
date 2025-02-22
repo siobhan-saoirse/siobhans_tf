@@ -8211,3 +8211,76 @@
 	"wave"	")weapons/fx/nearmiss/dragons_fury_nearmiss.wav"
 
 }
+// ------------------------------------------------------------------------------------ //
+// ASSAULT CANNON
+// ------------------------------------------------------------------------------------ //
+
+"Weapon_AssaultCannon.Reload"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_NORM"
+	"volume"	"1.0"
+	"wave"		"weapons/default_reload.wav"
+}
+
+"Weapon_AssaultCannon.ClipEmpty"	
+{
+	"channel"	"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_NORM"
+	"volume"	"1.0"
+	"pitch"		"125"
+	"wave"		")weapons/asscannon_empty.wav"
+}
+
+"Weapon_AssaultCannon.Spin"	
+{
+	"channel"	"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_NORM"
+	"volume"	"1.0"
+	"pitch"		"125"
+	"wave"		")weapons/asscannon_spin.wav"
+}
+
+"Weapon_AssaultCannon.WindUp"	
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"pitch"		"125"
+	"wave"		")weapons/asscannon_wind_up.wav"
+}
+
+
+"Weapon_AssaultCannon.Fire"	
+{
+	"channel"	"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_94dB"
+	"pitch"		"125"
+	"wave"		")weapons/asscannon_shoot.wav"
+}
+
+"Weapon_AssaultCannon.FireCrit"	
+{
+	"channel"	"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"pitch"		"125"
+	"wave"		")weapons/asscannon_shoot_crit.wav"
+}
+
+"Weapon_AssaultCannon.WindDown"	
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"pitch"		"125"
+	"wave"		")weapons/asscannon_wind_down.wav"
+}
+
+"Weapon_AssaultCannon.Draw"
+{
+	"channel"	"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_74dB"
+	"volume"	".5"
+	"wave"		"weapons/draw_minigun_heavy.wav"
+}
