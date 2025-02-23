@@ -64,6 +64,12 @@
 			game				|appid_243750|hl2
 			platform			|appid_243750|platform
 
+			// for raid mode sfx
+			game				|appid_550|update
+			game				|appid_550|left4dead2_dlc3
+			game				|appid_550|left4dead2_dlc2
+			game				|appid_550|left4dead2_dlc1
+			game				|appid_550|left4dead2
 			// Random files downloaded from gameservers go into a seperate directory, so
 			// that it's easy to keep those files segregated from the official game files
 			// or customizations intentially installed by the user.
