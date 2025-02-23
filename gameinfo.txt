@@ -51,7 +51,7 @@
 			game_lv				|appid_440|tf/tf2_lv.vpk
 			game+mod			|appid_440|tf/tf2_textures.vpk
 			game+mod			|appid_440|tf/tf2_sound_vo_english.vpk
-			game				|appid_440|tf/tf2_sound_misc.vpk
+			game+mod				|appid_440|tf/tf2_sound_misc.vpk
 			game+mod+vgui		|appid_440|tf/tf2_misc.vpk
 			game				|appid_243750|hl2/hl2_textures.vpk
 			game				|appid_243750|hl2/hl2_sound_vo_english.vpk
