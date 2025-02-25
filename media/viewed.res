@@ -2,7 +2,7 @@
 {
 	"trade_plaza_2"
 	{
-		"viewed"		"12"
+		"viewed"		"17"
 	}
 	"mvm_coaltown"
 	{
@@ -18,7 +18,7 @@
 	}
 	"ctf_2fort"
 	{
-		"viewed"		"23"
+		"viewed"		"24"
 	}
 	"raid_badwater"
 	{
@@ -50,7 +50,7 @@
 	}
 	"koth_harvest_final"
 	{
-		"viewed"		"30"
+		"viewed"		"31"
 	}
 	"koth_viaduct_event"
 	{
