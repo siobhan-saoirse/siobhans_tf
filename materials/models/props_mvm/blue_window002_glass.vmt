@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_mvm/blue_window002_glass"
+	"$translucent" 1
+}

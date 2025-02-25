@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_mvm/painted_wood_01"
+	"$translucent" 1
+}

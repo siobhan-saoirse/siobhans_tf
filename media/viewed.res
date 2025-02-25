@@ -2,11 +2,11 @@
 {
 	"trade_plaza_2"
 	{
-		"viewed"		"11"
+		"viewed"		"12"
 	}
 	"mvm_coaltown"
 	{
-		"viewed"		"14"
+		"viewed"		"15"
 	}
 	"mvm_mannhattan"
 	{
@@ -18,7 +18,7 @@
 	}
 	"ctf_2fort"
 	{
-		"viewed"		"22"
+		"viewed"		"23"
 	}
 	"raid_badwater"
 	{
@@ -34,7 +34,7 @@
 	}
 	"siob_debugtest"
 	{
-		"viewed"		"5"
+		"viewed"		"9"
 	}
 	"cp_5gorge"
 	{
@@ -42,7 +42,7 @@
 	}
 	"plr_hightower"
 	{
-		"viewed"		"2"
+		"viewed"		"5"
 	}
 	"itemtest"
 	{
@@ -50,7 +50,7 @@
 	}
 	"koth_harvest_final"
 	{
-		"viewed"		"27"
+		"viewed"		"30"
 	}
 	"koth_viaduct_event"
 	{
@@ -61,6 +61,30 @@
 		"viewed"		"1"
 	}
 	"pl_upward"
+	{
+		"viewed"		"2"
+	}
+	"ctf_turbine"
+	{
+		"viewed"		"2"
+	}
+	"ctf_gasworks_rock3"
+	{
+		"viewed"		"3"
+	}
+	"ad_dustbowl2"
+	{
+		"viewed"		"2"
+	}
+	"mvm_stronghold"
+	{
+		"viewed"		"1"
+	}
+	"mvm_deathpit"
+	{
+		"viewed"		"12"
+	}
+	"hunted"
 	{
 		"viewed"		"1"
 	}

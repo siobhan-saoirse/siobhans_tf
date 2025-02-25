@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_mvm/base_roof_2"
+	"$translucent" 1
+}

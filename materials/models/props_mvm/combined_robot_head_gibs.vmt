@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_mvm/combined_robot_head_gibs"
+	"$translucent" 1
+}

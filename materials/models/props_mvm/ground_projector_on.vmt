@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_mvm/ground_projector_on"
+	"$translucent" 1
+}

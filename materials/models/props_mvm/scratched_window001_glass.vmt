@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_mvm/scratched_window001_glass"
+	"$translucent" 1
+}
