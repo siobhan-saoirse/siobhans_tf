@@ -35,6 +35,7 @@ cfg/settings.scr
 cfg/local_loadout.txt
 settings/admins.txt
 ServerConfig.vdf
+media/viewed.res
 
 # logs
 logs/*
